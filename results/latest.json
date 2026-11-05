@@ -1,5 +1,5 @@
 {
-  "runAt": "2026-11-05T23:40:00+09:00",
+  "runAt": "2026-11-05T23:41:00+09:00",
   "results": [
     {
       "photoId": "cmw3nazni0001l808aj22k2p3",
@@ -7,19 +7,19 @@
       "poster": {
         "kind": "etc",
         "title": "캠퍼스친구 포스터 시험 공고",
-        "summary": "캠퍼스친구 운영팀이 「나의 캠퍼스포스터」 기능을 시험하려고 만든 공고예요(실제 행사 아님).",
+        "summary": "경희대 학부생 누구나 11월 20일까지 신청할 수 있는 시스템 시험용 공고예요(실제 행사 아님).",
         "hostName": "캠퍼스친구 운영팀(시험)",
         "hostType": "outside",
         "audience": ["undergrad"],
         "applyStart": "2026-11-06",
         "applyEnd": "2026-11-20",
         "benefit": "없음(시스템 시험)",
-        "howToApply": "누리집에서 확인 · 문의는 담당자 010-1234-5678",
+        "howToApply": "https://korea.campuschingu.com/about 에서 신청 · 문의는 담당자 010-XXXX-XXXX",
         "link": "https://korea.campuschingu.com/about",
-        "fullText": "시험용 · 실제 행사 아님\n캠퍼스친구 포스터 시험 공고\n주최: 캠퍼스친구 운영팀(시험)\n대상: 경희대 학부생 누구나\n접수 기간: 2026.11.06 ~ 2026.11.20\n혜택: 없음(시스템 시험)\n신청: https://korea.campuschingu.com/about\n문의: 담당자 010-1234-5678\n이 포스터는 「나의 캠퍼스포스터」 기능 시험용으로 만든 그림입니다.",
-        "uncertain": []
+        "fullText": "시험용 · 실제 행사 아님\n캠퍼스친구\n포스터 시험 공고\n주최: 캠퍼스친구 운영팀(시험)\n대상: 경희대 학부생 누구나\n접수 기간: 2026.11.06 ~ 2026.11.20\n혜택: 없음(시스템 시험)\n신청: https://korea.campuschingu.com/about\n문의: 담당자 010-XXXX-XXXX\n이 포스터는 「나의 캠퍼스포스터」 기능 시험용으로 만든 그림입니다.",
+        "uncertain": ["eventDate", "place"]
       },
-      "blur": [{ "x": 0.29, "y": 0.585, "w": 0.28, "h": 0.045 }]
+      "blur": [{ "x": 0.29, "y": 0.58, "w": 0.28, "h": 0.05 }]
     }
   ]
 }
